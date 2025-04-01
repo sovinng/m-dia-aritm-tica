@@ -1,2 +1,2 @@
-# m-dia-aritm-tica
+# media aritmetica
 estudos python
